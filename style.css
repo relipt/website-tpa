@@ -10,3 +10,9 @@ h1 {
   text-align: center;
   background-color: grey;
 }
+
+p {
+  font: oblique;
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkred;
+}
